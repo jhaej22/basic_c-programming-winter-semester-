@@ -1,0 +1,20 @@
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+
+/* int main(void) {
+
+	int n;
+	printf("Á¤¼ö ÀÔ·Â: ");
+	scanf("%d", &n);
+
+	if (n % 2 != 0) {
+		printf("È¦¼ö\n");
+	} else {
+		printf("Â¦¼ö\n");
+	}
+
+	// »ïÇ× ¿¬»êÀÚ ÀÌ¿ë
+	(n % 2 == 0) ? printf("Â¦¼ö\n") : printf("È¦¼ö\n");
+
+	return 0;
+} */
